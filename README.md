@@ -9,6 +9,6 @@
 
 <img align='right' src='https://github.com/aryanrai2001/aryanrai2001/blob/main/images/octocat-anime.gif' width='150"'>
 
-Hello<img src="https://github.com/aryanrai2001/aryanrai2001/blob/main/images/waving-hand.gif" width="20px"></h2>, welcome to my GitHub profile. My name is Aryan Rai, I'm an undergraduate from Galgotias University. I fell in love with Computer Science when I was about 11 years old. Since then, I have explored a diverse variety of subdomains within Computer Science. I also enjoy developing games and have worked on projects related to computer graphics, emulation, deep learning, etc. And I like experimenting with different technologies.
+Hello<img src="https://github.com/aryanrai2001/aryanrai2001/blob/main/images/waving-hand.gif" width="20">, welcome to my GitHub profile. My name is Aryan Rai, I'm an undergraduate from Galgotias University. I fell in love with Computer Science when I was about 11 years old. Since then, I have explored a diverse variety of subdomains within Computer Science. I also enjoy developing games and have worked on projects related to computer graphics, emulation, deep learning, etc. And I like experimenting with different technologies.
 
 ![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryanrai2001&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
